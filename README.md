@@ -1,5 +1,5 @@
 
-## ILLEGAL INSTRCUTION CO
+## ILLEGAL INSTRUCTION CO
 	A software company headquartered in my basement.
 
 ### [🚬] MBK
