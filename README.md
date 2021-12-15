@@ -2,7 +2,7 @@
 ## ILLEGAL INSTRCUTION CO
 	A software company headquartered in my basement.
 
-### ## [🚬] MBK
+### [🚬] MBK
 #### Interests
 
  1. Network and web security research.
