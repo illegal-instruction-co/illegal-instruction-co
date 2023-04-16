@@ -1,4 +1,17 @@
 
+I love reverse engineering and I'm a fan of low-level programming. 
+When I write code, I prefer to focus on algorithms rather than syntax. 
+I try to make my projects modular and easily extensible. 
+My favorite programming languages are C++ and Lua, and my 
+favorite areas are game development and low-level programming.
+
+I'm a die-hard Windows fan and most of my previous work 
+has been on Windows. However, recently I've started to work on Linux 
+using the WSL2 platform. I'm not focused on any particular area, 
+but rather on learning in general. I have an obsessive curiosity 
+about learning new things and I'm constantly 
+searching for new knowledge in the field.
+
 ## ILLEGAL INSTRUCTION CO
 <div>
   <a href="https://github.com/illegal-instruction-co">
