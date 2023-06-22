@@ -3,7 +3,7 @@ I love reverse engineering and I'm a fan of low-level programming.
 When I write code, I prefer to focus on algorithms rather than syntax. 
 I try to make my projects modular and easily extensible. 
 My favorite programming languages are C++ and Lua, and my 
-favorite areas are game development and low-level programming.
+favorite areas are game development and low-level programming. Even i got really bad math :)
 
 I'm a die-hard Windows fan and most of my previous work 
 has been on Windows. However, recently I've started to work on Linux 
