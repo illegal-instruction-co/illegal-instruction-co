@@ -12,6 +12,8 @@ but rather on learning in general. I have an obsessive curiosity
 about learning new things and I'm constantly 
 searching for new knowledge in the field.
 
+Currently, i am working on embedded-devices and automotive sector.
+
 ## ILLEGAL INSTRUCTION CO
 <div>
   <a href="https://github.com/illegal-instruction-co">
