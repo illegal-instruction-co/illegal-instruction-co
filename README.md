@@ -1,3 +1,7 @@
+machinetherapist mt illegal instruction
+
+illegal-instruction-co formerly, the honorary name of my personal company, where I used to conduct commercial activities. 
+Now, it continues as an organization engaged in open-sourced activities, holding the same name out of respect for the past.
 
 I have a strong passion for reverse engineering and a deep interest in low-level programming. 
 When I write code, I prioritize focusing on algorithms over syntax. 
