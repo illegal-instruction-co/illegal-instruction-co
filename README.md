@@ -1,18 +1,17 @@
 
-I love reverse engineering and I'm a fan of low-level programming. 
-When I write code, I prefer to focus on algorithms rather than syntax. 
-I try to make my projects modular and easily extensible. 
-My favorite programming languages are C++ and Lua, and my 
-favorite areas are game development and low-level programming. Ah, and also i got really bad math :)
+I have a strong passion for reverse engineering and a deep interest in low-level programming. 
+When I write code, I prioritize focusing on algorithms over syntax. 
+I aim to create modular and easily extensible projects. 
+My favorite programming languages are C++ and Lua, and I particularly enjoy game development and low-level programming. 
+Interestingly, I struggle with math.
 
-I'm a die-hard Windows fan and most of my previous work 
-has been on Windows. However, recently I've started to work on Linux 
-using the WSL2 platform. I'm not focused on any particular area, 
-but rather on learning in general. I have an obsessive curiosity 
-about learning new things and I'm constantly 
-searching for new knowledge in the field.
+I'm a devoted Windows enthusiast, and most of my previous work has been centered around Windows. 
+However, recently I've begun working on Linux using the WSL2 platform. 
 
-Currently, i am working on embedded-devices and automotive sector.
+Rather than specializing in a particular area, my focus is on continuous learning. 
+I possess an insatiable curiosity for acquiring new knowledge within the field.
+
+At present, I am actively engaged in projects involving embedded devices and the automotive sector.
 
 ## ILLEGAL INSTRUCTION CO
 
