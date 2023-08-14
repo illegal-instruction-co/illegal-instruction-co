@@ -17,19 +17,10 @@ I possess an insatiable curiosity for acquiring new knowledge within the field.
 
 At present, I am actively engaged in projects involving embedded devices and the automotive sector.
 
-## ILLEGAL INSTRUCTION CO
-
-### Location: Turkey
-### Current areas of interest:
-1. Car diagnostic
-2. Car reverse engineering
-3. Home automation
-4. Single board PC's
-5. Windows reversing and developing protection methods
-
 <div>
   <a href="https://github.com/illegal-instruction-co">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illegal-instruction-co&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illegal-instruction-co&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illegal-instruction-co&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illegal-instruction-co&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
