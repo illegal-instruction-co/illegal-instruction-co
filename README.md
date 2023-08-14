@@ -15,6 +15,15 @@ searching for new knowledge in the field.
 Currently, i am working on embedded-devices and automotive sector.
 
 ## ILLEGAL INSTRUCTION CO
+
+### Location: Turkey
+### Current areas of interest:
+1. Car diagnostic
+2. Car reverse engineering
+3. Home automation
+4. Single board PC's
+5. Windows reversing and developing protection methods
+
 <div>
   <a href="https://github.com/illegal-instruction-co">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illegal-instruction-co&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
