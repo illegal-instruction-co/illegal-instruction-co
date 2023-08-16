@@ -19,7 +19,7 @@ At present, I am actively engaged in projects involving embedded devices and the
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illegal-instruction-co&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="180em" height="180em" src="https://github.com/illegal-instruction-co/illegal-instruction-co/assets/79029454/9b828d0d-0c04-46d9-ac74-d9f74745310d"/>
+  <img height="180em" src="https://github.com/illegal-instruction-co/illegal-instruction-co/assets/79029454/9b828d0d-0c04-46d9-ac74-d9f74745310d"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illegal-instruction-co&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
