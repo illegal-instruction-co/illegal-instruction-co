@@ -1,9 +1,5 @@
 machinetherapist mt illegal instruction
 
-<p align="center">
-  <img src="https://github.com/illegal-instruction-co/illegal-instruction-co/assets/79029454/97453171-163a-4383-abc8-461a8b578150" height="300em"/>
-</p>
-
 illegal-instruction-co formerly, the honorary name of my personal company, where I used to conduct commercial activities. 
 Now, it continues as an organization engaged in open-sourced activities, holding the same name out of respect for the past.
 
@@ -20,6 +16,9 @@ Rather than specializing in a particular area, my focus is on continuous learnin
 I possess an insatiable curiosity for acquiring new knowledge within the field.
 
 At present, I am actively engaged in projects involving embedded devices and the automotive sector.
+<p align="center">
+  <img src="https://github.com/illegal-instruction-co/illegal-instruction-co/assets/79029454/97453171-163a-4383-abc8-461a8b578150" height="300em"/>
+</p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illegal-instruction-co&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
