@@ -1,6 +1,6 @@
 machinetherapist mt illegal instruction
 
-<img src="https://github.com/illegal-instruction-co/illegal-instruction-co/assets/79029454/f39de093-b638-47ca-b151-ae32fef66a9b" height="300em"/>
+<img align="center" src="https://github.com/illegal-instruction-co/illegal-instruction-co/assets/79029454/f39de093-b638-47ca-b151-ae32fef66a9b" height="300em"/>
 
 illegal-instruction-co formerly, the honorary name of my personal company, where I used to conduct commercial activities. 
 Now, it continues as an organization engaged in open-sourced activities, holding the same name out of respect for the past.
