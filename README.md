@@ -16,9 +16,9 @@ Rather than specializing in a particular area, my focus is on continuous learnin
 I possess an insatiable curiosity for acquiring new knowledge within the field.
 
 At present, I am actively engaged in projects involving embedded devices and the automotive sector.
-<p align="center">
+<center>
   <img src="https://github.com/illegal-instruction-co/illegal-instruction-co/assets/79029454/97453171-163a-4383-abc8-461a8b578150" height="300em"/>
-</p>
+</center>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illegal-instruction-co&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
