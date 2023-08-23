@@ -17,8 +17,7 @@ I possess an insatiable curiosity for acquiring new knowledge within the field.
 
 At present, I am actively engaged in projects involving embedded devices and the automotive sector.
 
-<img src="https://github.com/illegal-instruction-co/illegal-instruction-co/assets/79029454/97453171-163a-4383-abc8-461a8b578150" height="300em" style="margin: 0 auto; display: block;"
-  />
+<img src="https://github.com/illegal-instruction-co/illegal-instruction-co/assets/79029454/97453171-163a-4383-abc8-461a8b578150" height="300em" style="margin: 0 auto; display: block;"/>
 
 
 <div>
