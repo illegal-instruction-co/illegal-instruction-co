@@ -1,4 +1,4 @@
-machinetherapist mt illegal instruction
+illegal instruction
 
 illegal-instruction-co formerly, the honorary name of my personal company, where I used to conduct commercial activities. 
 Now, it continues as an organization engaged in open-sourced activities, holding the same name out of respect for the past.
