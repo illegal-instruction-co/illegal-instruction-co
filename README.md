@@ -1,10 +1,18 @@
-illegal-instruction-co originally served as the honorary name of my personal company, where I conducted commercial activities. Now, it continues as an organization dedicated to open-source endeavors, preserving the same name out of respect for the past.
+illegal-instruction-co originally served as the honorary name of my personal company, where I conducted commercial activities. 
+Now, it continues as an organization dedicated to open-source endeavors, preserving the same name out of respect for the past.
 
-I have a deep passion for reverse engineering and a strong interest in low-level programming. When I write code, I prioritize focusing on algorithms rather than syntax. I aim to build modular and extensible projects, and I thrive on solving complex problems through efficient code. My favorite programming languages are C++ and Lua, with a particular fondness for game development and low-level systems programming. Interestingly, I struggle with math but continue to improve through practical experience.Rather than specializing in a single area, my focus is on continuous learning.
+I have a deep passion for reverse engineering and a strong interest in low-level programming. 
+When I write code, I prioritize focusing on algorithms rather than syntax. I aim to build modular and extensible projects,
+and I thrive on solving complex problems through efficient code. My favorite programming languages are C++ and Lua, with a particular fondness
+for game development and low-level systems programming. Interestingly, I struggle with math but continue to improve through practical experience.
+Rather than specializing in a single area, my focus is on continuous learning.
 
-As a committed Windows enthusiast, most of my prior work has been centered around Windows environments. Over the past few years, however, I have expanded my knowledge and have started working on Linux via the WSL2 platform.
+As a committed Windows enthusiast, most of my prior work has been centered around Windows environments. 
+Over the past few years, however, I have expanded my knowledge and have started working on Linux via the WSL2 platform.
 
-Currently, I am involved in projects related to embedded systems and the automotive sector, particularly in the area of vehicle communication systems. Over the last 7 years, I've specialized in memory hacking and protection methods on Windows. For the past 2 years, I've also been working on my Ubuntu laptop, working on communication protocols such as OBDII, WWHOBD, UDS, and J1939 in the embedded systems domain.
+Currently, I am involved in projects related to embedded systems and the automotive sector, particularly in the area of vehicle communication systems. 
+Over the last 7 years, I've specialized in memory hacking and protection methods on Windows. For the past 2 years,
+I've also been working on my Ubuntu laptop, working on communication protocols such as OBDII, WWHOBD, UDS, and J1939 in the embedded systems domain.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illegal-instruction-co&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
