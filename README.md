@@ -20,8 +20,3 @@ protocols such as OBDII, WWHOBD, UDS, and J1939 in the embedded systems domain.
 Additionally, I have a 10-year background in web development, where I work with Laravel and ExpressJS for the backend, 
 and React and Next.js for the frontend. This is a hobby that allows me to stay connected with the web development world 
 and continuously improve my skills.
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illegal-instruction-co&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
