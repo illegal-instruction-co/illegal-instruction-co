@@ -1,6 +1,6 @@
 # illegal-instruction (the lab)  
 ### A glorified name for a bunch of open-source experiments.  
-#### Sometimes useful, sometimes chaos, always nerdy.  
+#### Sometimes useful, sometimes chaos, always boring.  
 
 ---
 
