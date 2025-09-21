@@ -1,11 +1,15 @@
 # illegal-instruction (the lab)  
-### A glorified name for a bunch of open-source experiments.  
-#### Sometimes useful, sometimes chaos, always boring.  
+```
+A glorified name for a bunch of open-source experiments.
+Sometimes useful, sometimes chaos, always boring.
+```
 
 ---
 
 # machinetherapist (the human)  
-### That’s me. The one trying to debug life with the same patience I (don’t) use for code.  
+```
+That’s me. The one trying to debug life with the same patience I (don’t) use for code.  
+```
 
 ---
 
